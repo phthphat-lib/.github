@@ -1,5 +1,5 @@
 ## My own library
-All libraries were made by me, some of its was used in our company
+All libraries were made by me, some of its was used in my company
 
 Contact me: [phthphat@gmail.com](mailto:phthphat@gmail.com)
 
